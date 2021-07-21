@@ -7,4 +7,4 @@ Franky
 Bubba
 Quetzal
 Saint
-Kebra
+Kobra
