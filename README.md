@@ -9,3 +9,4 @@ Exercises:
 3. Using breadcrumb navigation, open file1.md, file2.md and file3.md and close them
 4. Rename variable `num` to `digit` in `code.js`, only for one function
 5. `index.html`
+6. In `code.js` move to radixSort function. Add a comment to the beginning of the block, and another one at the end
