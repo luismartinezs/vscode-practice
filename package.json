@@ -1,0 +1,25 @@
+{
+  "name": "vscode-practice",
+  "version": "1.0.0",
+  "description": "Use this to practice VSC",
+  "main": "code.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "touch-clean": "touch test && rm test",
+    "print": "echo PRINT"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luismartinezs/vscode-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luismartinezs/vscode-practice/issues"
+  },
+  "homepage": "https://github.com/luismartinezs/vscode-practice#readme",
+  "dependencies": {
+    "@babel/core": "^7.14.8"
+  }
+}

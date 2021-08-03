@@ -11,3 +11,6 @@ Exercises:
 5. `index.html`
 6. `vue-init.js`
 7. Open markdown preview side panel for this file
+8. Search for babel core files in node_modules (only keyboard shortcuts)
+9. Run `touch-clean` script (only keyboard shortcuts)
+10. Toggle zen mode
