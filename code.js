@@ -4,6 +4,8 @@
  * 3. Go to line 27 and write a comment, then in line 13
  * 4. Wrap the bottom comment into comment lines
  * 5. console log the variable 'bucket' in a line under it along with the line number and the variable name
+ * 6. Go to line 11, go to beginning and end of line 5 times
+ * 7. Go to beginning and end of file 5 times
  */
 
 function getDigit (num, pos) {
