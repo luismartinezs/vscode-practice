@@ -4,7 +4,7 @@ Use this to practice VSC
 
 Exercises:
 
-Keyboard shortcuts
+## Keyboard shortcuts
 
 1. `new-lines.md`
 2. Open 2, 3 and 4 side views and close them, closing 3rd first
@@ -16,3 +16,7 @@ Keyboard shortcuts
 8. Search for babel core files in node_modules (only keyboard shortcuts)
 9. Run `touch-clean` script (only keyboard shortcuts)
 10. Toggle zen mode
+
+## Emmet
+
+1. `emmet.html`
