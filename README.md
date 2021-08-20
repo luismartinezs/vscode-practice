@@ -20,3 +20,23 @@ Exercises:
 ## Emmet
 
 1. `emmet.html`
+
+## Command palette
+
+- Insert rofl emoji here:
+- change to:
+  - kebabCase
+  - CAMEL_CASE
+  - snake-case
+  - make this a constant
+  - make this dot notation
+  - and this a path
+- Insert a lorem ipsum line
+- Create an image with the following code:
+```js
+function myFunc () {
+  return 'Much visual, wow'
+}
+```
+- Check VSCODE performance
+-
